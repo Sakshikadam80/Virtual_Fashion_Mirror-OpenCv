@@ -4,11 +4,11 @@ It is a virtual dressing room where you can see how shirts appear on you. This p
 
 # Requirements:
 IDE: PyCharm Community edition
-Python 3.9
-cvzone
-OpenCv 4.5.4.60
-NumPy
-Mediapipe
+Python 3.9,
+cvzone,
+OpenCv 4.5.4.60,
+NumPy,
+Mediapipe,
 # Approach:
 1.	 Install packages
 i)	 Cvzone
